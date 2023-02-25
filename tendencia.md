@@ -1,4 +1,4 @@
-|palavra-chave|categoria |Categoria do Hábito Consumo |Categoria da Característica do Produto|Característica da Embalagem |Tendência de Consumo |Tabela Referência   |
+|nome_caracteristica	|nome_tendencia	|categoria_habito_consumo	|categoria_caracteristica_produto	|caracteristica_embalagem	|tendencia_consumo	|tabela_referencia |
 |-------------|----------|-----------|----------------|--------------|----------|---------|
 |diarreia    |?? | |Contaminação|   |- |-    |
 |entulho     |?? | |Contaminação|   |- |-    |
